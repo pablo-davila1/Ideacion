@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\renewcommand{\labelenumi}{\arabic{enumi}}
+
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+            
+        \Huge
+        \textbf{travesía con un juego por c++}
+            
+        \vspace{0.5cm}
+        \LARGE
+            
+        \vspace{1.5cm}
+            
+        \textbf{MANUEL CRISTOBAL MORENO LIZCANO Y JUAN PABLO DAVILA}
+            
+        \vfill
+            
+        \vspace{0.8cm}
+            
+        \Large
+        Departamento de Ingeniería Electrónica y Telecomunicaciones\\
+        Universidad de Antioquia\\
+        Medellín\\
+        Marzo de 2021
+            
+    \end{center}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+\section{Sección introductoria}\label{intro}
+Con este documento se busca estructurar ideas  con lo aprendido en las clases de informática II  para crear un vídeo juego
+
+\section{ideas para aprender c++} \label{contenido}
+
+\begin{itemize}
+
+    nuestro juego consiste en un muñeco(aprendiz) que pueda recolectar plata mientras avanza de puerta. al momento de ingresar a esa puerta, debe descifrar un código echo en c++ para avanzar de puerta y en el caso en el que no pueda descifrar el código tendrá que pelear con un mostró y destruirlo para que el monstruo pueda entregarle el código que le permitirá avanzar, esto se repetirá consecutivamente hasta la ultima puerta que es donde esta la llave(logo c++) donde le otorgara el nivel en que este( aprendiz, mi ni programados, programador beta. etc) y así  continuara hasta que se le de el nombre de programador experto
+    
+\end{itemize}
+
+
+
+
+
+\end{document}
